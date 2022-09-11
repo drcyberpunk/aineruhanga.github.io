@@ -8,9 +8,10 @@
 
 html,
 body {
+  
   margin: 0;
   padding: 0;
-  background-color: white;
+  background-color: rgb(226, 223, 231);
   font-family: 'Open Sans', Helvetica, Arial, sans-serif;
   left: 0;
   right: 0;
@@ -82,10 +83,11 @@ hr {
 }
 
 .menu-container {
+  
   z-index: 2;
   position: relative;
   width: 100%;
-  background-color: #333333;
+  background-color: #0c0b0be7;
   min-width: 300px;
   -webkit-touch-callout: none;
   -webkit-user-select: none;
@@ -94,6 +96,12 @@ hr {
   -ms-user-select: none;
   user-select: none;
   box-shadow: 0 0px 4px rgb(0 0 0 / 32%), 0 0px 10px rgb(0 0 0 / 23%);
+}
+
+:root{
+
+  --primary-color: #edf2fc;
+  --secondary-color: #212121;
 }
 
 .menu {
