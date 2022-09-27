@@ -87,7 +87,7 @@ hr {
   z-index: 2;
   position: relative;
   width: 100%;
-  background-color: #0c0b0be7;
+  background-color: #0fc56ae7;
   min-width: 300px;
   -webkit-touch-callout: none;
   -webkit-user-select: none;
@@ -117,7 +117,7 @@ hr {
 }
 
 .menu-highlight {
-  color: rgb(255, 255, 255) !important;
+  color: rgb(161, 33, 33) !important;
   opacity: 1 !important;
   font-weight: 700 !important;
 }
@@ -197,7 +197,7 @@ hr {
 .content ul a,
 .content ol a {
   text-decoration: none;
-  color: #005cbf;
+  color: #1380c9;
 }
 
 .content p a:hover,
@@ -219,7 +219,7 @@ hr {
   font-weight: 300;
   line-height: 1.5;
   overflow-x: auto;
-  background-color: #005cbf;
+  background-color: #16c961;
   display: flex;
 }
 
